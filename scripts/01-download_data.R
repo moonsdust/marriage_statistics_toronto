@@ -4,7 +4,7 @@
 # Date: 19 September 2024
 # Contact: em.su@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: Non
+# Pre-requisites: None
 # Any other information needed? None
 
 
