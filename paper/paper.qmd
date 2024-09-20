@@ -1,12 +1,12 @@
 ---
-title: "Marriage License in Toronto"
-subtitle: "My subtitle if needed"
+title: "Marriage License in Toronto Before and After Pandemic"
+subtitle: "An analysis of marriage licenses in Toronto from 2011 to 2024"
 author: 
   - Emily Su
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/moonsdust/marriage_statistics_toronto."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "This paper looks at the number of marriage licenses created across Toronto from 2011 to 2024. We discovered that there was a steep increase in the number of marriage licenses after 2020. Further investigation is needed on the reasoning behind this."
 format: pdf
 number-sections: true
 bibliography: references.bib
